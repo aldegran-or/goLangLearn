@@ -6,6 +6,6 @@ func main() {
 	var x string 
 	x = "First "
 	fmt.Println(x)
-	x = x + "Second"
+	x += "Second"
 	fmt.Println(x)
 	}
