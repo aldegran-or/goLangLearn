@@ -6,6 +6,6 @@ func main() {
 	var x string 
 	x = "Hello"
 	var y string 
-	x = "World"
+	y = "Hello"
 	fmt.Println(x == y)
 	}
