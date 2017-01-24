@@ -12,6 +12,6 @@ func main(){
 		} else if i % 5 == 0 {
 			fmt.Println(i, "Это число делится на 5")
 		} else { fmt.Println(i, "Это число не делится ни на 3 ни на 5")
-	} 
-}
+			} 
+	}
 }
